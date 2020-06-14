@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">FoodApp</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favorite_restaurants">Favorite Restaurants</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log out</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="open_drawer">open</string>
+    <string name="close_drawer">close</string>
+    <string name="action_sort">Sort</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="choose_from_menu_list_below">Choose from menu listed below:</string>
 </resources>
